@@ -165,7 +165,7 @@ var dojo = 'san jose';
 learn();
 console.log(dojo); // This code runs 'burbank, seattle, san jose'
 
-// 8. Bonus ES6: const (NOT SOLVED: NEED WORD)
+// 8. Bonus ES6: const (NOT SOLVED: NEEDS WORK)
 console.log(makeDojo("Chicago", 65));
 console.log(makeDojo("Berkeley", 0));
 function makeDojo(name, students){
